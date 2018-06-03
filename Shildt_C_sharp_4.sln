@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftDemo", "ShiftDemo\Shif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultDiv", "MultDiv\MultDiv.csproj", "{2262F2A6-3A1D-41B9-9A5B-BB37FD2AEB42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ternary", "ternary\ternary.csproj", "{850FB262-9F92-40BA-800B-D4E897A64E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2262F2A6-3A1D-41B9-9A5B-BB37FD2AEB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2262F2A6-3A1D-41B9-9A5B-BB37FD2AEB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2262F2A6-3A1D-41B9-9A5B-BB37FD2AEB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850FB262-9F92-40BA-800B-D4E897A64E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850FB262-9F92-40BA-800B-D4E897A64E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850FB262-9F92-40BA-800B-D4E897A64E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850FB262-9F92-40BA-800B-D4E897A64E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
