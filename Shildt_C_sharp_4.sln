@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeOdd", "MakeOdd\MakeOdd.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encode", "Encode\Encode.csproj", "{55572F16-6989-4336-AE67-235768608CAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDemo", "NotDemo\NotDemo.csproj", "{B7C05CC1-10B4-497D-A34C-E3686C8C2E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{55572F16-6989-4336-AE67-235768608CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55572F16-6989-4336-AE67-235768608CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55572F16-6989-4336-AE67-235768608CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C05CC1-10B4-497D-A34C-E3686C8C2E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C05CC1-10B4-497D-A34C-E3686C8C2E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C05CC1-10B4-497D-A34C-E3686C8C2E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C05CC1-10B4-497D-A34C-E3686C8C2E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
