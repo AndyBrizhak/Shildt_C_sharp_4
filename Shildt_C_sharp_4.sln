@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeEven", "MakeEven\MakeEv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsOdd", "IsOdd\IsOdd.csproj", "{2EADBE8B-B46B-499A-9941-8C1A23BE5B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowBits", "ShowBits\ShowBits.csproj", "{D2070965-ACF2-4063-93D9-A0150117C370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2EADBE8B-B46B-499A-9941-8C1A23BE5B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EADBE8B-B46B-499A-9941-8C1A23BE5B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EADBE8B-B46B-499A-9941-8C1A23BE5B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2070965-ACF2-4063-93D9-A0150117C370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2070965-ACF2-4063-93D9-A0150117C370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2070965-ACF2-4063-93D9-A0150117C370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2070965-ACF2-4063-93D9-A0150117C370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
