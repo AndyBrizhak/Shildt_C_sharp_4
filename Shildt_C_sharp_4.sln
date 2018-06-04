@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ternary", "ternary\ternary.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{13C122A9-9044-4756-843D-1E0A8DD7AEF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cipher", "Cipher\Cipher.csproj", "{75ED4E8E-CD92-42FF-BFDB-956471D91C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{13C122A9-9044-4756-843D-1E0A8DD7AEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C122A9-9044-4756-843D-1E0A8DD7AEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C122A9-9044-4756-843D-1E0A8DD7AEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75ED4E8E-CD92-42FF-BFDB-956471D91C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ED4E8E-CD92-42FF-BFDB-956471D91C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ED4E8E-CD92-42FF-BFDB-956471D91C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ED4E8E-CD92-42FF-BFDB-956471D91C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
