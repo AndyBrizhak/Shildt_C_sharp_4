@@ -23,6 +23,7 @@ namespace If_Else
             Console.ReadKey();
 
             //double l = Convert.ToInt32(Console.ReadLine()); if (l = 2.5) Console.WriteLine("var 1"); else Console.WriteLine("var 2");
+            ///
 
 
 
