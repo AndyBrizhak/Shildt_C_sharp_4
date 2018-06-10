@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseFinally", "UseFinally\Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateTest", "DelegateTest\DelegateTest.csproj", "{D74A8435-DBD1-448F-8874-C4D8348A0574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSDemo", "NSDemo\NSDemo.csproj", "{E0B96120-EEF9-4911-98FE-86BCF9CBAFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D74A8435-DBD1-448F-8874-C4D8348A0574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D74A8435-DBD1-448F-8874-C4D8348A0574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D74A8435-DBD1-448F-8874-C4D8348A0574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B96120-EEF9-4911-98FE-86BCF9CBAFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B96120-EEF9-4911-98FE-86BCF9CBAFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B96120-EEF9-4911-98FE-86BCF9CBAFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B96120-EEF9-4911-98FE-86BCF9CBAFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
